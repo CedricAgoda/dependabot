@@ -1,7 +1,7 @@
 {
   "name": "dependabot",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test packages version",
   "main": "index.js",
   "repository": "https://github.com/CedricAgoda/dependabot",
